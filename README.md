@@ -16,3 +16,6 @@ Presented with the raw data (.csv included in this Repo), perform EDA and visual
 * What we can learn from comparing active claims and closed claims?
 
 ![Claims_Characteristics](https://user-images.githubusercontent.com/112103910/188286354-415b29cc-83c3-465c-b203-8e015333ebb2.png)
+
+Raw Data CSV: 
+Power BI Project: 
