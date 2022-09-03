@@ -1,5 +1,6 @@
 # Restaurant_Legal_Claims
-##Reorg Analysis: Analyzing legal claims to facilitate personnel assignments.
+
+## Reorg Analysis: Analyzing legal claims to facilitate personnel assignments.
 
 Data Validation	
 Assess data quality and perform validation tasks.
