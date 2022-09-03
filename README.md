@@ -17,5 +17,5 @@ Presented with the raw data (.csv included in this Repo), perform EDA and visual
 
 ![Claims_Characteristics](https://user-images.githubusercontent.com/112103910/188286354-415b29cc-83c3-465c-b203-8e015333ebb2.png)
 
-Raw Data CSV: 
-Power BI Project: 
+Raw Data CSV: restaurant_claims.csv
+Power BI Project: Case Study Project - Food Restaurant Claims.pbix
