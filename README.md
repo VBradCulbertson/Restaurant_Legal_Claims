@@ -22,3 +22,5 @@ Presented with the raw data (.csv included in this Repo), perform EDA and visual
 Raw Data CSV: restaurant_claims.csv
 
 Power BI Project: Case Study Project - Food Restaurant Claims.pbix
+
+Jupyter Notebook Project Submission: Restaurant Claims.ipynb
